@@ -25,3 +25,5 @@ I received a B.S. in Chemical Engineering from the New Mexico Institute of Minin
 For my dissertation, I studied computational models that facilitate screening catalyst materials with quantum chemistry simulations.
 My professional interests include studying reproducibility in computational research, teaching Python programming for data science, and advocating open science and scientific skepticism.
 My personal interests include playing guitar, board games, and listening to comedy podcasts.
+
+### [My CV (needs to be updated)](https://drive.google.com/file/d/1W7-v8J98reqdAD4GfcCBhBsuNCJBAdB1/view?usp=drive_link)
