@@ -4,7 +4,7 @@ title: Chasz Griego
 ---
 <img src='content/img/Chasz-Griego-headshot.jpg' width='250' alt='Headshot of Chasz Griego'>
 
-[<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">](http://orcid.org/0000-0002-2051-7491)
+[<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">](http://orcid.org/0000-0002-2051-7491) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/chaszg)
 
 ## Welcome to my page!
 
@@ -19,6 +19,9 @@ Office 4410, Sorrells Library
 4th Floor, Wean Hall, Carnegie Mellon University  
 Pittsburgh, PA 15213  
 
+### My workshops
+Current workshops [listed here](https://cmu.libcal.com/profile/103733).
+
 ## More About Me
 
 As a Science and Engineering Librarian, I serve as the liaison to the departments of Chemistry, Chemical Engineering, and Materials Science and Engineering at CMU.
@@ -32,7 +35,11 @@ My personal interests include playing guitar, board games, and listening to come
 - [02/2023](https://drive.google.com/file/d/1W7-v8J98reqdAD4GfcCBhBsuNCJBAdB1/view?usp=drive_link)
 
 ### Publications of Note
+*CMU Libraries*
+- Griego CD, Beltran L, Herckis L. **Open Science Recommendation Systems for Academic Libraries**. Journal eScience Librarianship. 2024 (Accepted).
+- Bongiovanni E, Gainey M, Beltran L, Griego CD. **The Open Science Book**. Association of College & Research Libraries. 2024 (Editor, In progress)
 
+*University of Pittsburgh*
 - [Dissertation](http://d-scholarship.pitt.edu/id/eprint/42521), **Rethinking Computational Catalyst Searches with Alchemical Perturbation Density Functional Theory**, 2022.
 - [Created Figure 1](https://pubs.acs.org/cms/10.1021/acs.chemrev.1c00107/asset/images/large/cr1c00107_0001.jpeg) in **Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems**. Chemical Reviews. 2021 [10.1021/acs.chemrev.1c00107](https://doi.org/10.1021/acs.chemrev.1c00107)
 - Griego CD, Kitchin JR, Keith JA. **Acceleration of catalyst discovery with easy, fast, and reproducible computational alchemy**. Int J Quantum Chem. 2020; [10.1002/qua.26380](https://doi.org/10.1002/qua.26380)
