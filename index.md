@@ -19,9 +19,6 @@ Office 4410, Sorrells Library
 4th Floor, Wean Hall, Carnegie Mellon University  
 Pittsburgh, PA 15213  
 
-### My workshops
-Current workshops [listed here](https://cmu.libcal.com/profile/103733).
-
 ## More About Me
 
 As a Science and Engineering Librarian, I serve as the liaison to the departments of Chemistry, Chemical Engineering, and Materials Science and Engineering at CMU.
@@ -31,11 +28,25 @@ For my dissertation, I studied computational models that facilitate screening ca
 My professional interests include studying reproducibility in computational research, teaching Python programming for data science, and advocating open science and scientific skepticism.
 My personal interests include playing guitar, board games, and listening to comedy podcasts.
 
+## Research
+**Measuring Reproducibility with Open Science Tools**
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWLkj0hYzJ4y97yCrlJCmEZP3ZAV2xMH66umOBxjZiX3RuFFzbcQtSn6R4cY-5LA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="375" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+## Teaching
+- **Enhancing Reproducibility and Collaboration with Open Research Tools**. 2023. [OSF Page](https://osf.io/m2jxb/)
+- Current workshops [listed here](https://cmu.libcal.com/profile/103733).
+
+---
+
 ### Curriculum Vitae
 - [02/2023](https://drive.google.com/file/d/1W7-v8J98reqdAD4GfcCBhBsuNCJBAdB1/view?usp=drive_link)
 
 ### Publications of Note
 *CMU Libraries*
+- [Op-ed](https://library.cmu.edu/about/news/2022-09/collaborative-reproducible-notebooks) on **Collaborative and Reproducible Notebooks**. 2022
 - Griego CD, Beltran L, Herckis L. **Open Science Recommendation Systems for Academic Libraries**. Journal eScience Librarianship. 2024 (Accepted).
 - Bongiovanni E, Gainey M, Beltran L, Griego CD. **The Open Science Book**. Association of College & Research Libraries. 2024 (Editor, In progress)
 
