@@ -41,6 +41,17 @@ My personal interests include playing guitar, board games, and listening to come
 
 ---
 
+## Research Tools and Personal Knowledge Management
+
+Below is an example of how I use tools and resources to manage the flow of research, discovery, and scholarly output.
+
+<img src='content/img/PKM-CDG.png' width='600' alt='A Flow Diagram of Knowledge Discovery Across Tools like Google Scholar, Zotero, Obsidian, Google Docs, and Research Rabbit.'>
+**Obsidian logo is outdated*
+
+---
+
+## Professional Information
+
 ### Curriculum Vitae
 - [02/2023](https://drive.google.com/file/d/1W7-v8J98reqdAD4GfcCBhBsuNCJBAdB1/view?usp=drive_link)
 
