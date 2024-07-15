@@ -67,3 +67,6 @@ Below is an example of how I use tools and resources to manage the flow of resea
 - Griego CD, Kitchin JR, Keith JA. **Acceleration of catalyst discovery with easy, fast, and reproducible computational alchemy**. Int J Quantum Chem. 2020; [10.1002/qua.26380](https://doi.org/10.1002/qua.26380)
 - Griego CD, Zhao L, Saravanan K, Keith JA. **Machine learning corrected alchemical perturbation density functional theory for catalysis applications**. AIChE J. 2020; [10.1002/aic.17041](https://doi.org/10.1002/aic.17041)
 - Griego CD, Saravanan K, and Keith JA. **Benchmarking Computational Alchemy for Carbide, Nitride, and Oxide Catalysts**. Adv. Theory Simul. 2018; [10.1002/adts.201800142](https://doi.org/10.1002/adts.201800142)
+
+## Professional Development
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="55ad900a-8bbd-4c43-a10a-09b90fab8f3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
